@@ -1,4 +1,4 @@
-# team000-sample
+# team117-abcs
 
 ## Basic Information
 
@@ -8,12 +8,12 @@
 | TeamName    |         abcs         |
 | Captain     |       Kazmain Shah    |
 | Captain     |  kshah228@illinois.edu  |
-| Member1     |              |
-| Member1     |     |
-| Member2     |         |
-| Member2     |   |
-| Member3     |                        |
-| Member3     |                        |
+| Member1     |       Sona Krishnan      |
+| Member1     |  sonavk2@illinois.edu  |
+| Member2     |     Nathan Parekh       |
+| Member2     |  nparekh4@illinois.edu |
+| Member3     |      Sana Naffakh      |
+| Member3     |  naffakh3@illinois.edu  |
 
 ## Project Information
 
