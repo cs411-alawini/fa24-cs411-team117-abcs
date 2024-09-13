@@ -8,8 +8,8 @@
 | TeamName    |         abcs         |
 | Captain     |       Kazmain Shah    |
 | Captain     |  kshah228@illinois.edu  |
-| Member1     |              |
-| Member1     |     |
+| Member1     |        Sana Naffakh     |
+| Member1     |  naffakh3@illinois.edu  |
 | Member2     |         |
 | Member2     |   |
 | Member3     |                        |
